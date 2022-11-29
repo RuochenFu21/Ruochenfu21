@@ -1,17 +1,20 @@
-### Hi there 👋
+# Hi there 👋, here's Forsteri123 👨‍💻
+
+Me? Just a coder does Python and Java that loves creating minecraft mods
+
+## Fun projects?
+
+### 🥔 [Create More Potatoes](https://github.com/RuochenFu21/CreateMorePotatoes)
+
+Create: More Potatoes extends Create's potato cannon and tools associated with it. We have yummy but harmful potato products, like Explosive Potato, and Flame Potato. Currently released
+
+### 👨‍🔬 [Create Industrial Chemistry](https://github.com/RuochenFu21/CreateIndustrialChemistry)
+
+Create: Industrial Chemistry is a Create mod addon that adds chemistry, like petro-chem, organic or inorganic. Not released yet.
+
+## Also?
+
+I'm a m1 mac user, getting tortured by ForgeGradle.
+
 ![](https://github-readme-stats.vercel.app/api?username=Ruochenfu21&theme=dark)
 
-<!--
-**Ruochenfu2011/Ruochenfu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
