@@ -1,4 +1,5 @@
 # Hi there 👋, here's Forsteri123 👨‍💻
+Support me on [Patreon](https://www.patreon.com/forsteri123)!
 
 Me? Just a coder does Python and Java that loves creating minecraft mods
 
@@ -14,6 +15,3 @@ Create: Industrial Chemistry is a Create mod addon that adds chemistry, like pet
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Ruochenfu21&theme=dark)
-
-
-
