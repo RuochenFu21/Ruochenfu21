@@ -10,7 +10,7 @@ Me? Just a coder does Python and Java that loves creating minecraft mods
 Create: Industrial Chemistry is a Create mod addon that adds chemistry, like petro-chem, organic or inorganic.
 
 ### Other projects: 
-[![](https://discord.com/api/guilds/1089879839382720562/widget.png?style=banner4)](https://discord.gg/jPRBaSyh4e)
+[![](https://discord.com/api/guilds/1034812032823861248/widget.png?style=banner4)](https://discord.gg/fGUhb7Mwv2)
 
 
 
