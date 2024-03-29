@@ -13,7 +13,7 @@
 
 📫 How to reach me: **furuochen.mail@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://www.curseforge.com/members/forsteri123/projects" target="blank"><img align="center" src="https://github.com/RuochenFu21/Ruochenfu21/blob/main/curseforge.png?raw=true" alt="https://www.curseforge.com/members/forsteri123/projects" height="50" width="50" /></a>
 <a href="https://modrinth.com/user/RuochenFu21" target="blank"><img align="center" src="https://docs.modrinth.com/img/logo.svg" alt="https://modrinth.com/user/RuochenFu21" height="50" width="50" /></a>
