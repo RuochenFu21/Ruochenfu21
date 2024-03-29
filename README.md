@@ -24,9 +24,12 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Username"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Username" /></a></p><br><br>
+<p><a href="https://patreon.com/forsteri123"> <img align="left" src="https://github.com/RuochenFu21/Ruochenfu21/blob/main/Patron.png?raw=true" height="55" width="210" alt="https://patreon.com/forsteri123" /></a></p>
+
+<br><br>
+<br>
 
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruochenfu21&show_icons=true&locale=en" alt="ruochenfu21" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ruochenfu21&show_icons=true&locale=en" alt="ruochenfu21" /></p>
