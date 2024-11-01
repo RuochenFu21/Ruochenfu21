@@ -15,8 +15,8 @@
 
 <h3 align="left">Links:</h3>
 <p align="left">
-<a href="https://www.curseforge.com/members/forsteri123/projects" target="blank"><img align="center" src="https://github.com/RuochenFu21/Ruochenfu21/blob/main/curseforge.png?raw=true" alt="https://www.curseforge.com/members/forsteri123/projects" height="50" width="50" /></a>
-<a href="https://modrinth.com/user/RuochenFu21" target="blank"><img align="center" src="https://docs.modrinth.com/img/logo.svg" alt="https://modrinth.com/user/RuochenFu21" height="50" width="50" /></a>
+<a href="https://www.curseforge.com/members/forsteri123/projects" target="blank"><img align="center" src="https://github.com/RuochenFu21/Ruochenfu21/blob/mainCurseforge.png?raw=true" alt="https://www.curseforge.com/members/forsteri123/projects" height="50" width="50" /></a>
+<a href="https://modrinth.com/user/RuochenFu21" target="blank"><img align="center" src="https://github.com/RuochenFu21/Ruochenfu21/blob/mainModrinth.png?raw=true" alt="https://modrinth.com/user/RuochenFu21" height="50" width="50" /></a>
 <a href="https://www.youtube.com/channel/UCOZQMnGv2defCdyLgx_1uxQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/600px-YouTube_social_red_circle_%282017%29.svg.png?20220808215554" alt="https://www.youtube.com/channel/UCOZQMnGv2defCdyLgx_1uxQ" height="50" width="50" /></a>
 <a href="https://discord.gg/https://discord.gg/fGUhb7Mwv2" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="https://discord.gg/fGUhb7Mwv2" height="50" width="50" /></a>
 <a href="https://space.bilibili.com/550418044" target="blank"><img align="center" src="https://downloadr2.apkmirror.com/wp-content/uploads/2021/06/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9_round.png" alt="https://space.bilibili.com/550418044" height="50" width="50" /></a>
