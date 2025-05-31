@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on **Minecraft modding**
 
-🌐 I speak **🇨🇳 Chinese, 🇬🇧 English (and currently learning Japanese as a hobby)**
+🌐 I speak **🇨🇳 Chinese, 🇬🇧 English, 🇯🇵 少し日本語**
 
 👨‍💻 All of my projects are available at [https://github.com/RuochenFu21](https://github.com/RuochenFu21)
 
